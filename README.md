@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jpnfarrar
+- 👀 I’m interested in the art of code
+- 🌱 I’m currently learning product development
+- 📫 How to reach me @jpnfarrar on Twitter
